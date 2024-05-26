@@ -1,0 +1,5 @@
+{
+  "name": "React Video Call",
+  "description": "React Video Call App powered by WebRTC, React and Socket.io",
+  "keywords": ["react", "express", "video call"]
+}
